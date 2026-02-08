@@ -1,0 +1,72 @@
+{
+  "book_id": "modernist-european-mythopoeic-memory-identity",
+  "title": "The Black Throat of Memory",
+  "tagline": "A man must uncover his family's buried past before a rising flood erases the truth, forcing him to navigate a labyrinth where memory is both a wound and a map.",
+  "target_words": 72317,
+  "actual_words": 72317,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Unreliability of Memory",
+    "The Haunting of Place",
+    "The Inheritance of Trauma",
+    "The Search for Authentic Self"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Stone Over the Well",
+      "words": 6574
+    },
+    {
+      "ch": 2,
+      "title": "Cedar, Smoke, and a Dormant Needle",
+      "words": 6574
+    },
+    {
+      "ch": 3,
+      "title": "The Black Throat of Memory",
+      "words": 6574
+    },
+    {
+      "ch": 4,
+      "title": "The Boy Who Was Leaking",
+      "words": 6574
+    },
+    {
+      "ch": 5,
+      "title": "A Labyrinth of Forgetting",
+      "words": 6574
+    },
+    {
+      "ch": 6,
+      "title": "The Cage of a Living Past",
+      "words": 6574
+    },
+    {
+      "ch": 7,
+      "title": "A World of Screaming Threads",
+      "words": 6574
+    },
+    {
+      "ch": 8,
+      "title": "The Wrong Kind of North",
+      "words": 6574
+    },
+    {
+      "ch": 9,
+      "title": "The Archive of Catastrophe",
+      "words": 6574
+    },
+    {
+      "ch": 10,
+      "title": "The City as a Healing Scar",
+      "words": 6574
+    },
+    {
+      "ch": 11,
+      "title": "The Syntax of Silent Hours",
+      "words": 6574
+    }
+  ]
+}
